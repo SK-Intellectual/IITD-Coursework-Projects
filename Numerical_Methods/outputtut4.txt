@@ -1,0 +1,15 @@
+The roots of the function by the Bisection method
+0.619019
+1.512085
+The roots of the function by the Regula Falsi method
+0.619185
+1.512023
+The roots of the function by the Secant method
+1.512135
+0.619061
+The roots of the function by the Fixed Point Iteration method
+0.619191
+1.511953
+The roots of the function by the Newton Raphson method
+1.512135
+0.619061

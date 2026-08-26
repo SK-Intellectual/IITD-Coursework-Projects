@@ -1,0 +1,2 @@
+Linear Regression Line by Summation Method : y1 = 94.7193-1.18762x1 -81.7804x2 -1.78796y2 
+Linear Regression Line by Matrix Method : y1 = 94.7193-1.18762x1 -81.7804x2 -1.78796y2 

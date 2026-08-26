@@ -1,0 +1,2 @@
+Value of cs : 2.01644 and Kmax : 9.97242
+Growth rate at c=2mg/L : 6.63011

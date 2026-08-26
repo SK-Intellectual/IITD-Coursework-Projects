@@ -1,0 +1,4 @@
+Linear Regression Line by Summation Method : y = 0.45283+1.03459x
+Correlation Coeffecient : 0.931836
+Linear Regression Line by Matrix Method : y = 0.45283+1.03459x
+Correlation Coeffecient : 0.931836

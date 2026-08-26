@@ -1,0 +1,4 @@
+2.999873
+-4.999841
+8.999746
+The solution is converging in 72 iterations in Jacobian method

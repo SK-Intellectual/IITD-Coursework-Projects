@@ -1,0 +1,4 @@
+2.999838
+-4.999756
+8.999756
+The solution is coverging in 36 iterations in Gauss Seidel.

@@ -1,0 +1,14 @@
+Iteration 1 : True error is X : -0.133975 , Y : -0.500000 , Z : 0.732051
+Iteration 1 : Relative error is X : -0.125000 , Y : -0.375000 , Z : 1.000000
+Iteration 2 : True error is X : -0.008975 , Y : -0.125000 , Z : -0.267949
+Iteration 2 : Relative error is X : -0.008929 , Y : -0.112500 , Z : -0.250000
+Iteration 3 : True error is X : -0.000046 , Y : -0.012500 , Z : -0.017949
+Iteration 3 : Relative error is X : -0.000046 , Y : -0.012348 , Z : -0.017857
+Iteration 4 : True error is X : -0.000000 , Y : -0.000152 , Z : -0.000092
+Iteration 4 : Relative error is X : -0.000000 , Y : -0.000152 , Z : -0.000092
+Iteration 5 : True error is X : -0.000000 , Y : -0.000000 , Z : -0.000000
+Iteration 5 : Relative error is X : 0.000000 , Y : -0.000000 , Z : -0.000000
+Solutions :
+0.866025
+0.500000
+1.732051

@@ -1,0 +1,9 @@
+2.999954
+-4.999970
+8.999984
+The solution conerges in 36 iterations in GS without SOR.
+2.999954
+-4.999970
+8.999984
+The solution conerges in 18 iterations in GS with SOR.
+Hence SOR helps in faster convergence of the solutions.
