@@ -1,0 +1,2 @@
+The equation is y = (4.21849)x*exp(29.6857x)
+The number of iterations required = 4
